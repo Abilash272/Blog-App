@@ -46,7 +46,7 @@ The user can add title, description and image to their Blog
 
 ## View Blog Page
 
-![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/view-blog.png?raw=true)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/view%20blog.png?raw=true)
 
 ## Settings Page
 

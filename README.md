@@ -9,9 +9,9 @@ This is a Blog app which allows user to write, edit and publish their blogs. Use
   - [Home Page](#home-page)
   - [Sign-in Page](#sign-in-page)
   - [Sign-up Page](#sign-up-page)
-  - [New Blog Page](#browse-page)
-  - [View Blog Page](#browse-page)
-  - [Settings Page](#browse-page)
+  - [New Blog Page](#new-blog-page)
+  - [View Blog Page](#view-blog-page)
+  - [Settings Page](#settings-page)
 
 # Project Walk-Through
 ## Home Page
@@ -33,7 +33,7 @@ Home Page consists of 4 parts
 
 ## Sign-up Page
 
-![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/reg.png?raw=true)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/Reg.png?raw=true)
 
 
 ## New Blog Page

@@ -16,7 +16,7 @@ This is a Blog app which allows user to write, edit and publish their blogs. Use
 # Project Walk-Through
 ## Home Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/home.png?raw=true)
 
 Home Page consists of 4 parts
 
@@ -27,27 +27,27 @@ Home Page consists of 4 parts
 
 ## Sign-in Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/LogIn.png?raw=true)
 
 
 
 ## Sign-up Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/reg.png?raw=true)
 
 
 ## New Blog Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/write1.png?raw=true)
 
 The user can add title, description and image to their Blog
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/write2.png?raw=true)
 
 ## View Blog Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/view-blog.png?raw=true)
 
 ## Settings Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Abilash272/blog-app/blob/main/images/settings.png?raw=true)
